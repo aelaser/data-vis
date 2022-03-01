@@ -70,8 +70,9 @@ iframe[seamless] {
 
 video {
   margin-top: 2rem;
+  width:99%;
   padding: 1rem;
-  padding-right: 1.5rem;
+  /* padding-right: 1.5rem; */
 }
 /*---------------- Variables Dark theme ----------------*/
 body.dark-theme{
@@ -428,7 +429,7 @@ img{
 .animation_card {
   background-color: #fff;
   /* box-shadow: 0 2px 6px rgba(65,11,16,.15); */
-  height: 40rem;
+  height: 37rem;
   box-shadow: 0 2px 6px rgba(65,11,16,.15);
   border-radius: 1rem;
 }
