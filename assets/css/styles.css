@@ -192,7 +192,7 @@ img{
     border-radius: 2rem;
     z-index: var(--z-fixed);
     
-  }
+  }       
 }
 
 .nav__item{
@@ -203,7 +203,7 @@ img{
 }
 
 .nav__logo{
-  color: #e6a009;
+  color: var(--title-color);
   font-weight: var(--font-semi-bold);
   text-decoration: none;
 
