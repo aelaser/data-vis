@@ -103,6 +103,7 @@ const sr = ScrollReveal({
 sr.reveal(`.home__data, .home__img, 
            .about__data,
            .value__content,
+           .graphs_container,
            .footer__content`, {
     origin: 'top',
     interval: 200,
