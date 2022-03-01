@@ -134,7 +134,7 @@ img{
   padding: 4rem 0 2rem;
 }
 
-.section-title, .section-title-center{
+.section-title{
   margin-top: 3rem;
   font-size: var(--h2-font-size);
   color: var(--title-color);
@@ -142,6 +142,11 @@ img{
   margin-bottom: 4rem;
 }
 
+.section-title-center{
+  font-size: var(--h2-font-size);
+  color: var(--title-color);
+  text-align: center;
+}
 /*---------------- LAYOUT ----------------*/
 .l-main{
   overflow: hidden;
