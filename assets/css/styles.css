@@ -71,6 +71,7 @@ iframe[seamless] {
 video {
   margin-top: 2rem;
   padding: 1rem;
+  padding-right: 1.5rem;
 }
 /*---------------- Variables Dark theme ----------------*/
 body.dark-theme{
